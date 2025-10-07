@@ -1,6 +1,6 @@
 <div align="center">
 
-# HEAT Labs - Website Images News
+# HEAT Labs - Images News
 
 <img src="https://raw.githubusercontent.com/HEATLabs/HEAT-Labs-Images/refs/heads/main/social-share/HEATLabs.png" alt="HEAT Labs Banner"/>
 
